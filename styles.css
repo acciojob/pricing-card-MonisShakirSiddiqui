@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.pricing-card{
+	padding: 20px;
+	width: 300px;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+.pricing-card img{
+	width: 200px;
+}
+.price{
+	font-size: 25px;
+}
+.description{
+	font-size: 20px
+}
+.pricing-card button {
+	background-color: orangered;
+	padding: 10px 20px;
+	border-radius: 10px;
+	border: none;
+	font-size: 18px;
+    cursor: pointer;
+	
+}
